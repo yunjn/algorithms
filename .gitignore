@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.out
+clean.sh
+test
